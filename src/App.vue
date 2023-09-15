@@ -275,7 +275,7 @@ body {
 
 .background-right {
   background: url("/images/faded-background-2.png");
-  background-repeat: no-repeat; /* Prevent image from repeating */
+  background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
   transform: rotate(45deg);

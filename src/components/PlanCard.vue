@@ -83,7 +83,7 @@ p {
   margin-top: -20px;
   font-size: 0.95rem;
   min-height: 60px;
-  font-weight: unset;
+  font-weight: normal;
 }
 
 button {

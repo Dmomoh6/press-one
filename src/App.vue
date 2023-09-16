@@ -205,7 +205,7 @@ export default {
   color: #616c74;
 }
 
-.bottom-table-row:nth-of-type(odd) td {
+.bottom-table-row:nth-of-type(even) td {
   background-color: #eaf1f6;
 }
 

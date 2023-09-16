@@ -37,10 +37,11 @@ export default {
 }
 .card {
   width: 470px;
-  height: 700px;
+  height: fit-content;
   padding-top: 100px;
   padding-bottom: 0px;
   background-size: contain;
+  border: 1px solid #eee;
   border-radius: 15px;
   background-repeat: no-repeat;
 }
@@ -101,6 +102,7 @@ ul {
 @media screen and (max-width: 768px) {
   .card {
     width: unset;
+    margin-bottom: 50px;
   }
 }
 </style>
